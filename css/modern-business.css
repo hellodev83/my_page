@@ -1,0 +1,43 @@
+body {
+  padding-top: 56px;
+}
+h3 {
+  backgorund-
+  background-color: rgba( 0, 0, 0, 0.3 );
+  
+  color: white;
+}
+.img-fluid rounded {
+  margin-top: 30px;
+}
+.explain {
+  font-size: 1.8em;
+}
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.lastone {
+  font-size: 18px;
+}
+.pointone {
+  text-decoration: underline;
+}
+.pnumber {
+  font-size: 23px;
+  font-weight: 700;
+}
+.email {
+  font-size: 23px;
+  font-weight: 700;
+}
