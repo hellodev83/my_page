@@ -3,6 +3,10 @@ body {
 }
 h3 {
   background-color: rgba( 0, 0, 0, 0.3 ); 
+  color: white;
+}
+.hope {
+  text-align: center;
   color: black;
 }
 .img-fluid rounded {
