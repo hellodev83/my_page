@@ -2,10 +2,8 @@ body {
   padding-top: 56px;
 }
 h3 {
-  backgorund-
-  background-color: rgba( 0, 0, 0, 0.3 );
-  
-  color: white;
+  background-color: rgba( 0, 0, 0, 0.3 ); 
+  color: black;
 }
 .img-fluid rounded {
   margin-top: 30px;
